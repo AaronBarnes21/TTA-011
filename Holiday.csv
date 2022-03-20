@@ -1,0 +1,17 @@
+,Outbound,Inbound,Hotel,IN,OUT,prices,Nights,review,Avaliabilty,Most Visted City,rating
+0,London Gatwick,Corfu,Royal Grand,Wed 4 May,Sat 7 May,£541,3,5,yes,1000000,4
+1,London Stansted,Faro,Muthu Clube Praia Da Oura,Tue 13 Dec,Thu 15 Dec,£611,2,8,no,9000000,4
+2,Manchester,Luqa,Solana Hotel and Spa,Thu 12 Jan,Thu 19 Jan,£296,7,8,yes,4500000,3
+3, Doncaster sheffield,Tenerife,Blue Sea,Sat 23 Apr,Sat 30 Apr,£432,7,8,yes,5000000,3
+4,Liverpool,Alicante,Flamingo Beach Resort ,Tue 29 Nov,Wed 7 Dec,£488,8,8,yes,3000000,3
+5,Bristol,Malaga ,Playa Golf,Tue 29 Mar,Sat 2 Apr ,£298,4,3,no,2500000,4
+6,London Stansted,Fuerteventura,SBH Taro Beach Hotel,Tue 24 May,Tue 31 May,"£1,021",7,9,no,2000000,4
+7,London Stansted,Faro,Albufeira Jardim Apartments,Thu 2 Feb,Fri 10 Feb,£170,8,2,yes,3250000,4
+8,London Stansted,Corfu,Flori Hotel,Wed 27 Apr,Wed 4 May,£344,7,6,no,1000000,3
+9,Leeds Bradford,Palma Mallorca,Bellevue Club,Sat 2 Apr,Thu 7 Apr,£312,5,3,yes,250000,3
+10,Birmingham,Palma Mallorca,Eix Lagotel Holiday Resort,Sat 23 Apr,Thu 28 Apr,£261,5,7,no,5050000,3
+11,Edinburgh,Tenerife Sur,Las Piramides,Wed 23 Mar,Wed 30 Mar,£563,7,5,yes,3200000,3
+12,London Stansted,Thesaloniki,Medusa Aparthotel,Mon 16 May,Thi 26 May,£315,10,8,yes,600000,3
+13,London Heathrow,"Punta Cana, Dominican Republic(PUJ)",Punta Cana,Wed 14 Sep,Wed 24 Sep,"£1,634",7,8,no,345000,5
+14,London Heathrow,"Punta Cana, Dominican Republic(PUJ)",Whala Bayahibe,Wed 14 Sep,Fri 23 Sep,"£1,296",9,9,no,1230000,4
+15,Manchester,Jose Marti,Marazul Hotel,Tue 6 sep,Tue 13 Sep,£597,7,6,yes,250000,3
