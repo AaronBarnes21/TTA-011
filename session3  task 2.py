@@ -20,7 +20,7 @@ elif avg >= 68 and avg <= 72:
     print("your grade is C")
 elif avg >= 52 and avg <= 68:
     print("your grade is D")
-elif avg >= 52 and avg <= 0:
+elif avg >= 0 and avg <=52:
     print("your grade is E")
 else:
   
